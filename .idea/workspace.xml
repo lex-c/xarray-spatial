@@ -28,8 +28,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a72aa72f-dd00-4efd-8395-e7cbbb3a7c96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/examples/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-06/S2A_15RWQ_20200106_0_L2A_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-06/S2A_15RWQ_20200106_0_L2A_metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-06/S2A_15RWQ_20200106_0_L2A_thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-09/S2A_15RWQ_20200109_0_L2A_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-09/S2A_15RWQ_20200109_0_L2A_metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-09/S2A_15RWQ_20200109_0_L2A_thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-16/S2A_15RWQ_20200116_0_L2A_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-16/S2A_15RWQ_20200116_0_L2A_metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-16/S2A_15RWQ_20200116_0_L2A_thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-19/S2A_15RWQ_20200119_0_L2A_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-19/S2A_15RWQ_20200119_0_L2A_metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-19/S2A_15RWQ_20200119_0_L2A_thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-26/S2A_15RWQ_20200126_0_L2A_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-26/S2A_15RWQ_20200126_0_L2A_metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/sentinel-s2-l2a-cogs/2020-01-26/S2A_15RWQ_20200126_0_L2A_thumbnail.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/Sentinels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/examples/Sentinels.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
