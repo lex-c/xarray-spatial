@@ -27,6 +27,7 @@ install_requires = [
 ]
 
 examples = [
+    'jupyterlab'
 ]
 
 # Additional tests dependencies and examples_extra may be needed in the future
